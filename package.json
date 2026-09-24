@@ -1,0 +1,12 @@
+{
+  "name": "campusfix-devops-pipeline",
+  "version": "1.0.0",
+  "description": "CampusFix backend CI/CD demo",
+  "main": "issueService.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
