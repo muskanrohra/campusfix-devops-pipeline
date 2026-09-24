@@ -68,7 +68,7 @@ if (require.main === module) {
 
   const newIssue = {
     id: 101,
-    title: "Broken chair in Room 204",
+    title: "Broken chair in Room 205",
     description: "The chair near the window is broken and unsafe to use.",
     category: "Furniture",
     status: "Reported",
